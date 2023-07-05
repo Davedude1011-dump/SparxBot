@@ -1,0 +1,3 @@
+"Sparx Maths Helper", is a program i created designed to streamline and quicken sparx maths, this tool only automates specific areas of Spax Maths like Bookwork Checks and logins.<br><br>This tool also provides features like a built in calculator (coming soon), a whiteboard for note taking / working out, the Bookwork Gallery where all the automatically saved bookworks go for when you need them, and much more to come in later updates.<br><br>On the left is a live version of the User interface addon this tool adds to Sparx Maths, because its live even withought downloading this tool you can check out the features right there just by clicking on the UI on the left.<br><br>Scroll down for more info and for the download.
+
+What is this?
